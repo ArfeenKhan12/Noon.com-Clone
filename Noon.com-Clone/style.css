@@ -1,0 +1,295 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+
+.body{
+    background-color: #000000;
+    
+}
+
+.noon-logo{
+
+    display: block;
+    box-sizing: border-box;
+    width: 86px;
+}
+.bg-yellow{
+    background-color: #feee00;
+}
+.deliver-to-dubai{
+    font-size: 14px;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+#searchBar{
+    width: 600px;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    margin-left: 10px;
+    border: transparent;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    gap: 50px;
+    padding-left: 20px;
+    cursor: pointer;
+    margin:10px 0px 0px 50px;
+}
+
+.all-categories{
+    color: #3866df;
+    font-weight: bold;
+}
+
+.categories{
+    font-weight: bold;
+    display: flex;
+    flex-direction: row;
+    gap: 40px;
+}
+.discount-img{
+    width: 100%;
+}
+.offers-img{
+    width: 942px;
+}
+.winter-img{
+    width: 200px;
+    width: 14.5%;
+}
+.categories-img{
+    width: 95px;
+    
+}
+.categories-img-div{
+    padding: 50px;
+    background-color: #FEEAEA;
+    display: flex;
+    justify-content: space-between;
+
+}
+.reason-to-shop-div{
+    background-color: #ffffff;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+    width: 431px;
+    padding: 0px 0px 0px 10px;
+    
+}
+.reason-to-shop-h2{
+    font-size: 20px;
+    text-align: left;
+    font-weight: bold;
+    margin: 7.5px 0px;
+}
+.img-reason{
+    width: 193px;
+    box-sizing: border-box;
+    margin: 0px 15px 15px 0px;
+    
+    
+}
+
+.mega-deals-div{
+    background-color: #FCD5D5;
+}
+.mega-deals-h2{
+    display: flex;
+    align-items: flex-start;
+    flex-direction: row;
+    margin: 0px 15px;
+    justify-content: space-between;
+    width: 432px;
+}
+.timer{
+    flex: 1 1 0%;
+    display: inline-flex;
+    flex-direction: row;
+    max-width: 70%;
+}
+.timer-1{
+    display: inline-flex;
+    flex-shrink: 0;
+    -webkit-box-align: center;
+    align-items: center;
+    gap: 6px;
+    border-radius: 25px;
+    padding: 0px 10px;
+    margin: 7.5px;
+    flex-direction: row;
+    color: #404553;
+    background-color: #ececec;
+}
+.timer-1-img{
+    width: 15px;
+    height: 20px;
+    margin-bottom: 3px;
+}
+.countdown{
+    font-weight: 600;
+    font-size: 1rem;
+    
+}
+.all-deals-div{
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+    border-radius: 4px;
+    margin: 7.5px 0px 7.5px 15px;
+    padding: 7.5px 15px;
+    color: #ffffff;
+    background-color: #4a4a4a;
+}
+.gap-10{
+   gap: 10px;
+}
+.in-focus-div{
+    width: 450px;
+    background-color: #ffffff;
+    position: relative;
+    flex: 1 1 0%;
+    min-width: 0px;
+    padding-top: 0px;
+    padding-bottom: 14px;
+}
+.in-focus-h2{
+    width: 100%;
+    margin: 7.5px 10px;
+    color: #404553;
+    text-align: left;
+    font-weight: bold;
+    font-size: 24px;
+}
+.in-focus-img{
+    width: 332px;
+    margin-left: 15px;
+}
+.bg-pink{
+    background-color: #FFEEE5;
+}
+
+.valentine-img{
+    width: 175px;
+}
+
+.bg-peach{
+    background-color: #FEF1E2;
+}
+
+.ramadan-product-h2{
+    width: 100%;
+    margin: 7.5px 0px;
+    color: #404553;
+    text-align: left;
+    font-weight: bold;
+    font-size: 24px;
+}
+.ramadan-product{
+    width: 176px;
+}
+
+.view-all-button{
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 7.5px 0px 7.5px 15px;
+    padding: 7.5px 15px;
+    border: 1px solid #404553;
+    color: #404553;
+    background-color: #ffffff;
+    text-align: right;
+    display: flex;
+    justify-content: right;
+}
+.view-all-button-1{
+    font-size: 1rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.2px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 7.5px 0px 7.5px 15px;
+    padding: 7.5px 15px;
+    border: transparent;
+    color: #404553;
+    background-color: transparent;
+    text-align: right;
+    display: flex;
+    justify-content: right;
+}
+.carousel-img{
+    width: 100%;
+    display: block;
+}
+.carnival-div{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+}
+.carnival-h2{
+    width: 100%;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    margin: 7.5px 0px;
+    color: #404553;
+    text-align: left;
+    font-weight: bold;
+    font-size: 24px;
+}
+.carnival-img{
+    width: 176px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.all-categories-h2{
+    margin: 5px 15px;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.all-categories-h2-div{
+    flex: 1 1 0%;
+    max-width: 90%;
+}
+.all-categories-H2{
+    width: 100%;
+    margin: 7.5px 0px;
+    color: #404553;
+    text-align: left;
+    font-weight: bold;
+    font-size: 24px
+}
+.all-categories-img{
+    width: 176px;
+    margin-left: 7px;
+    margin-top: 10px;
+}
+.ad-img{
+    margin-left: 10px;
+    width: 1320px;
+}
+.img-ad{
+    width: 728px;
+    height: 90px;
+    margin-top: 2px;
+    margin-left: 310px;
+}
